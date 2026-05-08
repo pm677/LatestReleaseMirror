@@ -157,28 +157,26 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
-<div id="therealaleph--masterhttprelayvpn-rust"></div>
+<div id="throneproj--throne"></div>
 
-### therealaleph--MasterHttpRelayVPN-RUST
+### throneproj--Throne
 
-🔗 [source](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) – [<code><small>v1.9.16</small></code>](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.9.16)
+🔗 [source](https://github.com/throneproj/Throne) – [<code><small>1.1.2</small></code>](https://github.com/throneproj/Throne/releases/tag/1.1.2)
 
 | File | Size | Download |
 |------|------|----------|
-| `mhrv-rs-android-arm64-v8a-v1.9.16.apk` | 18.6 MB | [⬇️ Download](https://raw.githubusercontent.com/pm677/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-arm64-v8a-v1.9.16.apk) |
-| `mhrv-rs-android-armeabi-v7a-v1.9.16.apk` | 16.1 MB | [⬇️ Download](https://raw.githubusercontent.com/pm677/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-armeabi-v7a-v1.9.16.apk) |
-| `mhrv-rs-android-universal-v1.9.16.apk` | 41.1 MB | [⬇️ Download](https://raw.githubusercontent.com/pm677/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-universal-v1.9.16.apk) |
-| `mhrv-rs-android-x86-v1.9.16.apk` | 19.3 MB | [⬇️ Download](https://raw.githubusercontent.com/pm677/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86-v1.9.16.apk) |
-| `mhrv-rs-android-x86_64-v1.9.16.apk` | 19.5 MB | [⬇️ Download](https://raw.githubusercontent.com/pm677/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86_64-v1.9.16.apk) |
-| `mhrv-rs-linux-amd64.tar.gz` | 9.8 MB | [⬇️ Download](https://raw.githubusercontent.com/pm677/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-amd64.tar.gz) |
-| `mhrv-rs-linux-arm64.tar.gz` | 2.1 MB | [⬇️ Download](https://raw.githubusercontent.com/pm677/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-arm64.tar.gz) |
-| `mhrv-rs-linux-musl-amd64.tar.gz` | 2.3 MB | [⬇️ Download](https://raw.githubusercontent.com/pm677/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-musl-amd64.tar.gz) |
-| `mhrv-rs-linux-musl-arm64.tar.gz` | 2.1 MB | [⬇️ Download](https://raw.githubusercontent.com/pm677/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-musl-arm64.tar.gz) |
-| `mhrv-rs-macos-amd64-app.zip` | 5.0 MB | [⬇️ Download](https://raw.githubusercontent.com/pm677/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-macos-amd64-app.zip) |
-| `mhrv-rs-macos-amd64.tar.gz` | 7.2 MB | [⬇️ Download](https://raw.githubusercontent.com/pm677/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-macos-amd64.tar.gz) |
-| `mhrv-rs-macos-arm64-app.zip` | 4.6 MB | [⬇️ Download](https://raw.githubusercontent.com/pm677/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-macos-arm64-app.zip) |
-| `mhrv-rs-macos-arm64.tar.gz` | 6.6 MB | [⬇️ Download](https://raw.githubusercontent.com/pm677/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-macos-arm64.tar.gz) |
-| `mhrv-rs-openwrt-mipsel-softfloat.tar.gz` | 2.2 MB | [⬇️ Download](https://raw.githubusercontent.com/pm677/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-openwrt-mipsel-softfloat.tar.gz) |
-| `mhrv-rs-raspbian-armhf.tar.gz` | 2.0 MB | [⬇️ Download](https://raw.githubusercontent.com/pm677/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-raspbian-armhf.tar.gz) |
-| `mhrv-rs-windows-amd64.zip` | 7.6 MB | [⬇️ Download](https://raw.githubusercontent.com/pm677/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-windows-amd64.zip) |
+| `Throne-1.1.2-debian-amd64-system-qt.deb` | 22.0 MB | [⬇️ Download](https://raw.githubusercontent.com/pm677/LatestReleaseMirror/main/releases/throneproj/Throne/Throne-1.1.2-debian-amd64-system-qt.deb) |
+| `Throne-1.1.2-debian-amd64.deb` | 44.4 MB | [⬇️ Download](https://raw.githubusercontent.com/pm677/LatestReleaseMirror/main/releases/throneproj/Throne/Throne-1.1.2-debian-amd64.deb) |
+| `Throne-1.1.2-debian-arm64-system-qt.deb` | 20.1 MB | [⬇️ Download](https://raw.githubusercontent.com/pm677/LatestReleaseMirror/main/releases/throneproj/Throne/Throne-1.1.2-debian-arm64-system-qt.deb) |
+| `Throne-1.1.2-debian-arm64.deb` | 42.2 MB | [⬇️ Download](https://raw.githubusercontent.com/pm677/LatestReleaseMirror/main/releases/throneproj/Throne/Throne-1.1.2-debian-arm64.deb) |
+| `Throne-1.1.2-linux-amd64.zip` | 57.2 MB | [⬇️ Download](https://raw.githubusercontent.com/pm677/LatestReleaseMirror/main/releases/throneproj/Throne/Throne-1.1.2-linux-amd64.zip) |
+| `Throne-1.1.2-linux-arm64.zip` | 55.1 MB | [⬇️ Download](https://raw.githubusercontent.com/pm677/LatestReleaseMirror/main/releases/throneproj/Throne/Throne-1.1.2-linux-arm64.zip) |
+| `Throne-1.1.2-macos-amd64.zip` | 49.7 MB | [⬇️ Download](https://raw.githubusercontent.com/pm677/LatestReleaseMirror/main/releases/throneproj/Throne/Throne-1.1.2-macos-amd64.zip) |
+| `Throne-1.1.2-macos-arm64.zip` | 47.4 MB | [⬇️ Download](https://raw.githubusercontent.com/pm677/LatestReleaseMirror/main/releases/throneproj/Throne/Throne-1.1.2-macos-arm64.zip) |
+| `Throne-1.1.2-macoslegacy-amd64.zip` | 47.7 MB | [⬇️ Download](https://raw.githubusercontent.com/pm677/LatestReleaseMirror/main/releases/throneproj/Throne/Throne-1.1.2-macoslegacy-amd64.zip) |
+| `Throne-1.1.2-windows-arm64.zip` | 40.5 MB | [⬇️ Download](https://raw.githubusercontent.com/pm677/LatestReleaseMirror/main/releases/throneproj/Throne/Throne-1.1.2-windows-arm64.zip) |
+| `Throne-1.1.2-windows32.zip` | 29.6 MB | [⬇️ Download](https://raw.githubusercontent.com/pm677/LatestReleaseMirror/main/releases/throneproj/Throne/Throne-1.1.2-windows32.zip) |
+| `Throne-1.1.2-windows64-installer.exe` | 40.1 MB | [⬇️ Download](https://raw.githubusercontent.com/pm677/LatestReleaseMirror/main/releases/throneproj/Throne/Throne-1.1.2-windows64-installer.exe) |
+| `Throne-1.1.2-windows64.zip` | 43.9 MB | [⬇️ Download](https://raw.githubusercontent.com/pm677/LatestReleaseMirror/main/releases/throneproj/Throne/Throne-1.1.2-windows64.zip) |
+| `Throne-1.1.2-windowslegacy64.zip` | 31.9 MB | [⬇️ Download](https://raw.githubusercontent.com/pm677/LatestReleaseMirror/main/releases/throneproj/Throne/Throne-1.1.2-windowslegacy64.zip) |
 <!-- RELEASES_END -->
