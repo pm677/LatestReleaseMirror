@@ -1,2 +1,3 @@
-therealaleph/MasterHttpRelayVPN-RUST|windows|android
+therealaleph/MasterHttpRelayVPN-RUST|windows|v8a
+iampedii/WhiteDNS|v8a
 #throneproj/Throne
