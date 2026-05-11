@@ -157,6 +157,19 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
+<div id="iampedii--whitedns"></div>
+
+### iampedii--WhiteDNS
+
+🔗 [source](https://github.com/iampedii/WhiteDNS) – [<code><small>1.1.0</small></code>](https://github.com/iampedii/WhiteDNS/releases/tag/1.1.0)
+
+| File | Size | Download |
+|------|------|----------|
+| `WhiteDNS-1.1.0-arm64-v8a.apk` | 5.0 MB | [⬇️ Download](https://raw.githubusercontent.com/pm677/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.1.0-arm64-v8a.apk) |
+| `WhiteDNS-1.1.0-arm64-v8a.apk.idsig` | 50 KB | [⬇️ Download](https://raw.githubusercontent.com/pm677/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.1.0-arm64-v8a.apk.idsig) |
+
+---
+
 <div id="therealaleph--masterhttprelayvpn-rust"></div>
 
 ### therealaleph--MasterHttpRelayVPN-RUST
@@ -166,9 +179,5 @@ sha256sum FILE_NAME
 | File | Size | Download |
 |------|------|----------|
 | `mhrv-rs-android-arm64-v8a-v1.9.21.apk` | 18.6 MB | [⬇️ Download](https://raw.githubusercontent.com/pm677/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-arm64-v8a-v1.9.21.apk) |
-| `mhrv-rs-android-armeabi-v7a-v1.9.21.apk` | 16.1 MB | [⬇️ Download](https://raw.githubusercontent.com/pm677/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-armeabi-v7a-v1.9.21.apk) |
-| `mhrv-rs-android-universal-v1.9.21.apk` | 41.1 MB | [⬇️ Download](https://raw.githubusercontent.com/pm677/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-universal-v1.9.21.apk) |
-| `mhrv-rs-android-x86-v1.9.21.apk` | 19.3 MB | [⬇️ Download](https://raw.githubusercontent.com/pm677/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86-v1.9.21.apk) |
-| `mhrv-rs-android-x86_64-v1.9.21.apk` | 19.6 MB | [⬇️ Download](https://raw.githubusercontent.com/pm677/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86_64-v1.9.21.apk) |
 | `mhrv-rs-windows-amd64.zip` | 7.6 MB | [⬇️ Download](https://raw.githubusercontent.com/pm677/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-windows-amd64.zip) |
 <!-- RELEASES_END -->
