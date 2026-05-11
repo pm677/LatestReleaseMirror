@@ -180,4 +180,17 @@ sha256sum FILE_NAME
 |------|------|----------|
 | `mhrv-rs-android-arm64-v8a-v1.9.21.apk` | 18.6 MB | [⬇️ Download](https://raw.githubusercontent.com/pm677/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-arm64-v8a-v1.9.21.apk) |
 | `mhrv-rs-windows-amd64.zip` | 7.6 MB | [⬇️ Download](https://raw.githubusercontent.com/pm677/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-windows-amd64.zip) |
+
+---
+
+<div id="zero-peak--zeroomega"></div>
+
+### zero-peak--ZeroOmega
+
+🔗 [source](https://github.com/zero-peak/ZeroOmega) – [<code><small>v3.4.5</small></code>](https://github.com/zero-peak/ZeroOmega/releases/tag/v3.4.5)
+
+| File | Size | Download |
+|------|------|----------|
+| `zeroomega-3.4.5.crx` | 1.5 MB | [⬇️ Download](https://raw.githubusercontent.com/pm677/LatestReleaseMirror/main/releases/zero-peak/ZeroOmega/zeroomega-3.4.5.crx) |
+| `zeroomega-3.4.5.crx.sha256` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/pm677/LatestReleaseMirror/main/releases/zero-peak/ZeroOmega/zeroomega-3.4.5.crx.sha256) |
 <!-- RELEASES_END -->
