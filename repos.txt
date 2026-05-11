@@ -1,2 +1,2 @@
-therealaleph/MasterHttpRelayVPN-RUST
+therealaleph/MasterHttpRelayVPN-RUST|windows|android
 #throneproj/Throne
